@@ -47,7 +47,7 @@ namespace PilotConsole
         {
             string url = args.Length > 0 ? args[0] : "https://pilot-bim.rain.ru:2491";
             string databaseName = args.Length > 1 ? args[1] : "FAIRYTALE";
-            string login = args.Length > 2 ? args[2] : "RAIN\\l.pupa";
+            string login = args.Length > 2 ? args[2] : "RAIN\\k.lapkin";
             string password = args.Length > 3 ? args[3] : "Test123";
 
             // ID целевой папки (если Guid.Empty — выгрузка всей базы)
