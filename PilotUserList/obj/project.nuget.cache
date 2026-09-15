@@ -1,0 +1,95 @@
+{
+  "version": 2,
+  "dgSpecHash": "fRbZLP8YQaM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v.rasporskiy\\source\\repos\\PilotUserList\\PilotUserList\\PilotUserList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\ascon.pilot.sdk\\23.16.0\\ascon.pilot.sdk.23.16.0.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\ascon.pilot.server.api\\23.16.0\\ascon.pilot.server.api.23.16.0.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\ascon.pilot.serverextensions.sdk\\23.16.0\\ascon.pilot.serverextensions.sdk.23.16.0.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\log4net\\2.0.8\\log4net.2.0.8.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.4\\microsoft.aspnetcore.cryptography.internal.7.0.4.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\microsoft.aspnetcore.dataprotection\\7.0.4\\microsoft.aspnetcore.dataprotection.7.0.4.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\microsoft.aspnetcore.dataprotection.abstractions\\7.0.4\\microsoft.aspnetcore.dataprotection.abstractions.7.0.4.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\microsoft.aspnetcore.dataprotection.extensions\\7.0.4\\microsoft.aspnetcore.dataprotection.extensions.7.0.4.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\7.0.0\\microsoft.extensions.hosting.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\protobuf-net\\2.3.17\\protobuf-net.2.3.17.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\system.data.sqlite.core\\1.0.109.2\\system.data.sqlite.core.1.0.109.2.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\system.private.servicemodel\\4.5.3\\system.private.servicemodel.4.5.3.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\system.security.cryptography.pkcs\\7.0.0\\system.security.cryptography.pkcs.7.0.0.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\system.security.cryptography.xml\\7.0.1\\system.security.cryptography.xml.7.0.1.nupkg.sha512",
+    "C:\\Users\\v.rasporskiy\\.nuget\\packages\\system.servicemodel.primitives\\4.5.3\\system.servicemodel.primitives.4.5.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1904",
+      "level": "Warning",
+      "message": "У пакета \"log4net\" 2.0.8 есть известная уязвимость https://github.com/advisories/GHSA-2cwj-8chv-9pp9 (уровень серьезности: критический уровень)",
+      "projectPath": "C:\\Users\\v.rasporskiy\\source\\repos\\PilotUserList\\PilotUserList\\PilotUserList.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\v.rasporskiy\\source\\repos\\PilotUserList\\PilotUserList\\PilotUserList.csproj",
+      "libraryId": "log4net",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "У пакета \"log4net\" 2.0.8 есть известная уязвимость https://github.com/advisories/GHSA-4f7c-pmjv-c25w (уровень серьезности: средний уровень)",
+      "projectPath": "C:\\Users\\v.rasporskiy\\source\\repos\\PilotUserList\\PilotUserList\\PilotUserList.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\v.rasporskiy\\source\\repos\\PilotUserList\\PilotUserList\\PilotUserList.csproj",
+      "libraryId": "log4net",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "У пакета \"Newtonsoft.Json\" 11.0.2 есть известная уязвимость https://github.com/advisories/GHSA-5crp-9r3c-p9vr (уровень серьезности: высокий уровень)",
+      "projectPath": "C:\\Users\\v.rasporskiy\\source\\repos\\PilotUserList\\PilotUserList\\PilotUserList.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\v.rasporskiy\\source\\repos\\PilotUserList\\PilotUserList\\PilotUserList.csproj",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "У пакета \"System.Security.Cryptography.Pkcs\" 7.0.0 есть известная уязвимость https://github.com/advisories/GHSA-555c-2p6r-68mm (уровень серьезности: высокий уровень)",
+      "projectPath": "C:\\Users\\v.rasporskiy\\source\\repos\\PilotUserList\\PilotUserList\\PilotUserList.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\v.rasporskiy\\source\\repos\\PilotUserList\\PilotUserList\\PilotUserList.csproj",
+      "libraryId": "System.Security.Cryptography.Pkcs",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Пакет \"Ascon.Pilot.SDK 23.16.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net10.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "projectPath": "C:\\Users\\v.rasporskiy\\source\\repos\\PilotUserList\\PilotUserList\\PilotUserList.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\v.rasporskiy\\source\\repos\\PilotUserList\\PilotUserList\\PilotUserList.csproj",
+      "libraryId": "Ascon.Pilot.SDK",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
