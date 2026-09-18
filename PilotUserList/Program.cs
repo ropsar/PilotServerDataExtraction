@@ -49,7 +49,7 @@ namespace PilotConsole
             string databaseName = args.Length > 1 ? args[1] : "FAIRYTALE";
             string login = args.Length > 2 ? args[2] : "RAIN\\k.lapkin";
             string password = args.Length > 3 ? args[3] : "Test123";
-            string license_type = args.Length > 3 ? args[4] : "101";
+            int license_type = args.Length > 4 ? args[4] : "101";
 
             // ID целевой папки (если Guid.Empty — выгрузка всей базы)
             Guid folderId = new Guid("24e3fc9d-2ab2-47dc-a7ef-af13d65e5dde");
